@@ -6,6 +6,7 @@ There are two files in the main folder viz fmradio.grc and fmradio.py
 
 Simply download the files in you system. For fmradio.grc simply open this file using gnuradio-companion.
 For fmradio.py simply using python in terminal to run the code.
+
 $> python3 fmradio.py
 
 
