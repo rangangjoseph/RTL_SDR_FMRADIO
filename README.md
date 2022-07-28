@@ -1,5 +1,5 @@
-# gsm_spectrum_analyzer
-A GSM spectrum analyzer using hackrf and gnuradio.
+# fmradio
+This fmradio has been created using gnuradio and RTL-SDR.
 
-This spectrum analyzer is based on GNURadio using HackRF and it requires the user to install GRC their linux system first.
-There are two files in the main folder viz spcectrumanalyzer.grc and spectrumanalyzer.py
+This fmradio is based on GNURadio using RTL SDR and it requires the user to install GRC their linux system first.
+There are two files in the main folder viz fmradio.grc and fmradio.py
